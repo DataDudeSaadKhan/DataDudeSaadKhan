@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any projects in multiple AI related fields.
 - 📫 How to reach me : DataDudeSaadKhan@gmail.com
 - 😄 Pronouns: Mr. / Sir
-- ⚡ Fun fact: A DataDude born with superpowers in data related in situations ;)
+- ⚡ Fun fact: A DataDude born with superpowers in data related situations ;)
 
 <!---
 DataDudeSaadKhan/DataDudeSaadKhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
