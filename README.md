@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DataDudeSaadKhan
-- 👀 I’m interested in Machine learning , AI and Statistics.
-- 🌱 I’m currently update learning Data Science skills.
+- 👀 I’m interested in Data Engineering, Machine learning , AI and Statistics.
+- 🌱 I’m currently update learning Data skills.
 - 💞️ I’m looking to collaborate on any projects in multiple AI related fields.
 - 📫 How to reach me : DataDudeSaadKhan@gmail.com
 - 😄 Pronouns: Mr. / Sir
