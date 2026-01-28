@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DataDudeSaadKhan
-- 👀 I’m interested in Data Engineering, Machine learning , AI and Statistics.
+- 👀 I work in Data Engineering & Science, Machine learning , AI and Statistics.
 - 🌱 I’m currently update learning Data skills.
-- 💞️ I’m looking to collaborate on any projects in multiple AI related fields.
+- 💞️ I’m looking to collaborate on any projects in multiple data related fields.
 - 📫 How to reach me : DataDudeSaadKhan@gmail.com
 - 😄 Pronouns: Mr. / Sir
 - ⚡ Fun fact: A DataDude born with superpowers in data related situations ;)
